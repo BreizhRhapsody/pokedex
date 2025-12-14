@@ -1,0 +1,5028 @@
+[
+  {
+    "id": 1,
+    "name_en": "Bulbasaur",
+    "name_fr": "Bulbizarre",
+    "types": [
+      "Plante",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "sp_attack": 65,
+      "sp_defense": 65,
+      "speed": 45
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 2
+    },
+    "image": "images/pokemons/1.png",
+    "resistances": [
+      "Eau",
+      "Électrik",
+      "Combat",
+      "Fée",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Vol",
+      "Psy"
+    ],
+    "cry_url": "sounds/1.ogg"
+  },
+  {
+    "id": 2,
+    "name_en": "Ivysaur",
+    "name_fr": "Herbizarre",
+    "types": [
+      "Plante",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 62,
+      "defense": 63,
+      "sp_attack": 80,
+      "sp_defense": 80,
+      "speed": 60
+    },
+    "evolutions": {
+      "prev": 1,
+      "next": 3
+    },
+    "image": "images/pokemons/2.png",
+    "resistances": [
+      "Eau",
+      "Électrik",
+      "Combat",
+      "Fée",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Vol",
+      "Psy"
+    ],
+    "cry_url": "sounds/2.ogg"
+  },
+  {
+    "id": 3,
+    "name_en": "Venusaur",
+    "name_fr": "Florizarre",
+    "types": [
+      "Plante",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "sp_attack": 100,
+      "sp_defense": 100,
+      "speed": 80
+    },
+    "evolutions": {
+      "prev": 2,
+      "next": null
+    },
+    "image": "images/pokemons/3.png",
+    "resistances": [
+      "Eau",
+      "Électrik",
+      "Combat",
+      "Fée",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Vol",
+      "Psy"
+    ],
+    "cry_url": "sounds/3.ogg"
+  },
+  {
+    "id": 4,
+    "name_en": "Charmander",
+    "name_fr": "Salamèche",
+    "types": [
+      "Feu"
+    ],
+    "stats": {
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "sp_attack": 60,
+      "sp_defense": 50,
+      "speed": 65
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 5
+    },
+    "image": "images/pokemons/4.png",
+    "resistances": [
+      "Feu",
+      "Plante",
+      "Glace",
+      "Insecte",
+      "Acier",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Sol",
+      "Roche"
+    ],
+    "cry_url": "sounds/4.ogg"
+  },
+  {
+    "id": 5,
+    "name_en": "Charmeleon",
+    "name_fr": "Reptincel",
+    "types": [
+      "Feu"
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 64,
+      "defense": 58,
+      "sp_attack": 80,
+      "sp_defense": 65,
+      "speed": 80
+    },
+    "evolutions": {
+      "prev": 4,
+      "next": 6
+    },
+    "image": "images/pokemons/5.png",
+    "resistances": [
+      "Feu",
+      "Plante",
+      "Glace",
+      "Insecte",
+      "Acier",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Sol",
+      "Roche"
+    ],
+    "cry_url": "sounds/5.ogg"
+  },
+  {
+    "id": 6,
+    "name_en": "Charizard",
+    "name_fr": "Dracaufeu",
+    "types": [
+      "Feu",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "sp_attack": 109,
+      "sp_defense": 85,
+      "speed": 100
+    },
+    "evolutions": {
+      "prev": 5,
+      "next": null
+    },
+    "image": "images/pokemons/6.png",
+    "resistances": [
+      "Feu",
+      "Plante",
+      "Insecte",
+      "Combat",
+      "Acier",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Électrik",
+      "Roche"
+    ],
+    "cry_url": "sounds/6.ogg"
+  },
+  {
+    "id": 7,
+    "name_en": "Squirtle",
+    "name_fr": "Carapuce",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "sp_attack": 50,
+      "sp_defense": 64,
+      "speed": 43
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 8
+    },
+    "image": "images/pokemons/7.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/7.ogg"
+  },
+  {
+    "id": 8,
+    "name_en": "Wartortle",
+    "name_fr": "Carabaffe",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 59,
+      "attack": 63,
+      "defense": 80,
+      "sp_attack": 65,
+      "sp_defense": 80,
+      "speed": 58
+    },
+    "evolutions": {
+      "prev": 7,
+      "next": 9
+    },
+    "image": "images/pokemons/8.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/8.ogg"
+  },
+  {
+    "id": 9,
+    "name_en": "Blastoise",
+    "name_fr": "Tortank",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "sp_attack": 85,
+      "sp_defense": 105,
+      "speed": 78
+    },
+    "evolutions": {
+      "prev": 8,
+      "next": null
+    },
+    "image": "images/pokemons/9.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/9.ogg"
+  },
+  {
+    "id": 10,
+    "name_en": "Caterpie",
+    "name_fr": "Chenipan",
+    "types": [
+      "Insecte"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 35,
+      "sp_attack": 20,
+      "sp_defense": 20,
+      "speed": 45
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 11
+    },
+    "image": "images/pokemons/10.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Sol"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Vol",
+      "Roche"
+    ],
+    "cry_url": "sounds/10.ogg"
+  },
+  {
+    "id": 11,
+    "name_en": "Metapod",
+    "name_fr": "Chrysacier",
+    "types": [
+      "Insecte"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 20,
+      "defense": 55,
+      "sp_attack": 25,
+      "sp_defense": 25,
+      "speed": 30
+    },
+    "evolutions": {
+      "prev": 10,
+      "next": 12
+    },
+    "image": "images/pokemons/11.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Sol"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Vol",
+      "Roche"
+    ],
+    "cry_url": "sounds/11.ogg"
+  },
+  {
+    "id": 12,
+    "name_en": "Butterfree",
+    "name_fr": "Papilusion",
+    "types": [
+      "Insecte",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 50,
+      "sp_attack": 90,
+      "sp_defense": 80,
+      "speed": 70
+    },
+    "evolutions": {
+      "prev": 11,
+      "next": null
+    },
+    "image": "images/pokemons/12.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Sol",
+      "Insecte"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Vol",
+      "Électrik",
+      "Glace",
+      "Roche"
+    ],
+    "cry_url": "sounds/12.ogg"
+  },
+  {
+    "id": 13,
+    "name_en": "Weedle",
+    "name_fr": "Aspicot",
+    "types": [
+      "Insecte",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 30,
+      "sp_attack": 20,
+      "sp_defense": 20,
+      "speed": 50
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 14
+    },
+    "image": "images/pokemons/13.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Vol",
+      "Psy",
+      "Roche"
+    ],
+    "cry_url": "sounds/13.ogg"
+  },
+  {
+    "id": 14,
+    "name_en": "Kakuna",
+    "name_fr": "Coconfort",
+    "types": [
+      "Insecte",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 25,
+      "defense": 50,
+      "sp_attack": 25,
+      "sp_defense": 25,
+      "speed": 35
+    },
+    "evolutions": {
+      "prev": 13,
+      "next": 15
+    },
+    "image": "images/pokemons/14.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Vol",
+      "Psy",
+      "Roche"
+    ],
+    "cry_url": "sounds/14.ogg"
+  },
+  {
+    "id": 15,
+    "name_en": "Beedrill",
+    "name_fr": "Dardargnan",
+    "types": [
+      "Insecte",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 40,
+      "sp_attack": 45,
+      "sp_defense": 80,
+      "speed": 75
+    },
+    "evolutions": {
+      "prev": 14,
+      "next": null
+    },
+    "image": "images/pokemons/15.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Vol",
+      "Psy",
+      "Roche"
+    ],
+    "cry_url": "sounds/15.ogg"
+  },
+  {
+    "id": 16,
+    "name_en": "Pidgey",
+    "name_fr": "Roucool",
+    "types": [
+      "Normal",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 40,
+      "sp_attack": 35,
+      "sp_defense": 35,
+      "speed": 56
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 17
+    },
+    "image": "images/pokemons/16.png",
+    "resistances": [
+      "Plante",
+      "Insecte",
+      "Sol",
+      "Spectre"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Glace",
+      "Roche"
+    ],
+    "cry_url": "sounds/16.ogg"
+  },
+  {
+    "id": 17,
+    "name_en": "Pidgeotto",
+    "name_fr": "Roucoups",
+    "types": [
+      "Normal",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 63,
+      "attack": 60,
+      "defense": 55,
+      "sp_attack": 50,
+      "sp_defense": 50,
+      "speed": 71
+    },
+    "evolutions": {
+      "prev": 16,
+      "next": 18
+    },
+    "image": "images/pokemons/17.png",
+    "resistances": [
+      "Plante",
+      "Insecte",
+      "Sol",
+      "Spectre"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Glace",
+      "Roche"
+    ],
+    "cry_url": "sounds/17.ogg"
+  },
+  {
+    "id": 18,
+    "name_en": "Pidgeot",
+    "name_fr": "Roucarnage",
+    "types": [
+      "Normal",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 83,
+      "attack": 80,
+      "defense": 75,
+      "sp_attack": 70,
+      "sp_defense": 70,
+      "speed": 101
+    },
+    "evolutions": {
+      "prev": 17,
+      "next": null
+    },
+    "image": "images/pokemons/18.png",
+    "resistances": [
+      "Plante",
+      "Insecte",
+      "Sol",
+      "Spectre"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Glace",
+      "Roche"
+    ],
+    "cry_url": "sounds/18.ogg"
+  },
+  {
+    "id": 19,
+    "name_en": "Rattata",
+    "name_fr": "Rattata",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 56,
+      "defense": 35,
+      "sp_attack": 25,
+      "sp_defense": 35,
+      "speed": 72
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 20
+    },
+    "image": "images/pokemons/19.png",
+    "resistances": [
+      "Spectre"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/19.ogg"
+  },
+  {
+    "id": 20,
+    "name_en": "Raticate",
+    "name_fr": "Rattatac",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 81,
+      "defense": 60,
+      "sp_attack": 50,
+      "sp_defense": 70,
+      "speed": 97
+    },
+    "evolutions": {
+      "prev": 19,
+      "next": null
+    },
+    "image": "images/pokemons/20.png",
+    "resistances": [
+      "Spectre"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/20.ogg"
+  },
+  {
+    "id": 21,
+    "name_en": "Spearow",
+    "name_fr": "Piafabec",
+    "types": [
+      "Normal",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 60,
+      "defense": 30,
+      "sp_attack": 31,
+      "sp_defense": 31,
+      "speed": 70
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 22
+    },
+    "image": "images/pokemons/21.png",
+    "resistances": [
+      "Plante",
+      "Insecte",
+      "Sol",
+      "Spectre"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Glace",
+      "Roche"
+    ],
+    "cry_url": "sounds/21.ogg"
+  },
+  {
+    "id": 22,
+    "name_en": "Fearow",
+    "name_fr": "Rapasdepic",
+    "types": [
+      "Normal",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 65,
+      "sp_attack": 61,
+      "sp_defense": 61,
+      "speed": 100
+    },
+    "evolutions": {
+      "prev": 21,
+      "next": null
+    },
+    "image": "images/pokemons/22.png",
+    "resistances": [
+      "Plante",
+      "Insecte",
+      "Sol",
+      "Spectre"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Glace",
+      "Roche"
+    ],
+    "cry_url": "sounds/22.ogg"
+  },
+  {
+    "id": 23,
+    "name_en": "Ekans",
+    "name_fr": "Abo",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 60,
+      "defense": 44,
+      "sp_attack": 40,
+      "sp_defense": 54,
+      "speed": 55
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 24
+    },
+    "image": "images/pokemons/23.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Psy"
+    ],
+    "cry_url": "sounds/23.ogg"
+  },
+  {
+    "id": 24,
+    "name_en": "Arbok",
+    "name_fr": "Arbok",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85,
+      "defense": 69,
+      "sp_attack": 65,
+      "sp_defense": 79,
+      "speed": 80
+    },
+    "evolutions": {
+      "prev": 23,
+      "next": null
+    },
+    "image": "images/pokemons/24.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Psy"
+    ],
+    "cry_url": "sounds/24.ogg"
+  },
+  {
+    "id": 25,
+    "name_en": "Pikachu",
+    "name_fr": "Pikachu",
+    "types": [
+      "Électrik"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 55,
+      "defense": 40,
+      "sp_attack": 50,
+      "sp_defense": 50,
+      "speed": 90
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 26
+    },
+    "image": "images/pokemons/25.png",
+    "resistances": [
+      "Électrik",
+      "Vol",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Sol"
+    ],
+    "cry_url": "sounds/25.ogg"
+  },
+  {
+    "id": 26,
+    "name_en": "Raichu",
+    "name_fr": "Raichu",
+    "types": [
+      "Électrik"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 90,
+      "defense": 55,
+      "sp_attack": 90,
+      "sp_defense": 80,
+      "speed": 110
+    },
+    "evolutions": {
+      "prev": 25,
+      "next": null
+    },
+    "image": "images/pokemons/26.png",
+    "resistances": [
+      "Électrik",
+      "Vol",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Sol"
+    ],
+    "cry_url": "sounds/26.ogg"
+  },
+  {
+    "id": 27,
+    "name_en": "Sandshrew",
+    "name_fr": "Sabelette",
+    "types": [
+      "Sol"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 85,
+      "sp_attack": 20,
+      "sp_defense": 30,
+      "speed": 40
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 28
+    },
+    "image": "images/pokemons/27.png",
+    "resistances": [
+      "Poison",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace"
+    ],
+    "cry_url": "sounds/27.ogg"
+  },
+  {
+    "id": 28,
+    "name_en": "Sandslash",
+    "name_fr": "Sablaireau",
+    "types": [
+      "Sol"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 110,
+      "sp_attack": 45,
+      "sp_defense": 55,
+      "speed": 65
+    },
+    "evolutions": {
+      "prev": 27,
+      "next": null
+    },
+    "image": "images/pokemons/28.png",
+    "resistances": [
+      "Poison",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace"
+    ],
+    "cry_url": "sounds/28.ogg"
+  },
+  {
+    "id": 29,
+    "name_en": "Nidoran♀",
+    "name_fr": "Nidoran♀",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 47,
+      "defense": 52,
+      "sp_attack": 40,
+      "sp_defense": 40,
+      "speed": 41
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 30
+    },
+    "image": "images/pokemons/29.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Psy"
+    ],
+    "cry_url": "sounds/29.ogg"
+  },
+  {
+    "id": 30,
+    "name_en": "Nidorina",
+    "name_fr": "Nidorina",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 62,
+      "defense": 67,
+      "sp_attack": 55,
+      "sp_defense": 55,
+      "speed": 56
+    },
+    "evolutions": {
+      "prev": 29,
+      "next": 31
+    },
+    "image": "images/pokemons/30.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Psy"
+    ],
+    "cry_url": "sounds/30.ogg"
+  },
+  {
+    "id": 31,
+    "name_en": "Nidoqueen",
+    "name_fr": "Nidoqueen",
+    "types": [
+      "Poison",
+      "Sol"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 92,
+      "defense": 87,
+      "sp_attack": 75,
+      "sp_defense": 85,
+      "speed": 76
+    },
+    "evolutions": {
+      "prev": 30,
+      "next": null
+    },
+    "image": "images/pokemons/31.png",
+    "resistances": [
+      "Combat",
+      "Poison",
+      "Roche",
+      "Insecte",
+      "Fée",
+      "Électrik"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Glace",
+      "Sol",
+      "Psy"
+    ],
+    "cry_url": "sounds/31.ogg"
+  },
+  {
+    "id": 32,
+    "name_en": "Nidoran♂",
+    "name_fr": "Nidoran♂",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 46,
+      "attack": 57,
+      "defense": 40,
+      "sp_attack": 40,
+      "sp_defense": 40,
+      "speed": 50
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 33
+    },
+    "image": "images/pokemons/32.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Psy"
+    ],
+    "cry_url": "sounds/32.ogg"
+  },
+  {
+    "id": 33,
+    "name_en": "Nidorino",
+    "name_fr": "Nidorino",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 61,
+      "attack": 72,
+      "defense": 57,
+      "sp_attack": 55,
+      "sp_defense": 55,
+      "speed": 65
+    },
+    "evolutions": {
+      "prev": 32,
+      "next": 34
+    },
+    "image": "images/pokemons/33.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Psy"
+    ],
+    "cry_url": "sounds/33.ogg"
+  },
+  {
+    "id": 34,
+    "name_en": "Nidoking",
+    "name_fr": "Nidoking",
+    "types": [
+      "Poison",
+      "Sol"
+    ],
+    "stats": {
+      "hp": 81,
+      "attack": 102,
+      "defense": 77,
+      "sp_attack": 85,
+      "sp_defense": 75,
+      "speed": 85
+    },
+    "evolutions": {
+      "prev": 33,
+      "next": null
+    },
+    "image": "images/pokemons/34.png",
+    "resistances": [
+      "Combat",
+      "Poison",
+      "Roche",
+      "Insecte",
+      "Fée",
+      "Électrik"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Glace",
+      "Sol",
+      "Psy"
+    ],
+    "cry_url": "sounds/34.ogg"
+  },
+  {
+    "id": 35,
+    "name_en": "Clefairy",
+    "name_fr": "Mélofée",
+    "types": [
+      "Fée"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 45,
+      "defense": 48,
+      "sp_attack": 60,
+      "sp_defense": 65,
+      "speed": 35
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 36
+    },
+    "image": "images/pokemons/35.png",
+    "resistances": [
+      "Combat",
+      "Insecte",
+      "Ténèbres",
+      "Dragon"
+    ],
+    "weaknesses": [
+      "Poison",
+      "Acier"
+    ],
+    "cry_url": "sounds/35.ogg"
+  },
+  {
+    "id": 36,
+    "name_en": "Clefable",
+    "name_fr": "Mélodelfe",
+    "types": [
+      "Fée"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 70,
+      "defense": 73,
+      "sp_attack": 95,
+      "sp_defense": 90,
+      "speed": 60
+    },
+    "evolutions": {
+      "prev": 35,
+      "next": null
+    },
+    "image": "images/pokemons/36.png",
+    "resistances": [
+      "Combat",
+      "Insecte",
+      "Ténèbres",
+      "Dragon"
+    ],
+    "weaknesses": [
+      "Poison",
+      "Acier"
+    ],
+    "cry_url": "sounds/36.ogg"
+  },
+  {
+    "id": 37,
+    "name_en": "Vulpix",
+    "name_fr": "Goupix",
+    "types": [
+      "Feu"
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 41,
+      "defense": 40,
+      "sp_attack": 50,
+      "sp_defense": 65,
+      "speed": 65
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 38
+    },
+    "image": "images/pokemons/37.png",
+    "resistances": [
+      "Feu",
+      "Plante",
+      "Glace",
+      "Insecte",
+      "Acier",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Sol",
+      "Roche"
+    ],
+    "cry_url": "sounds/37.ogg"
+  },
+  {
+    "id": 38,
+    "name_en": "Ninetales",
+    "name_fr": "Feunard",
+    "types": [
+      "Feu"
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 76,
+      "defense": 75,
+      "sp_attack": 81,
+      "sp_defense": 100,
+      "speed": 100
+    },
+    "evolutions": {
+      "prev": 37,
+      "next": null
+    },
+    "image": "images/pokemons/38.png",
+    "resistances": [
+      "Feu",
+      "Plante",
+      "Glace",
+      "Insecte",
+      "Acier",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Sol",
+      "Roche"
+    ],
+    "cry_url": "sounds/38.ogg"
+  },
+  {
+    "id": 39,
+    "name_en": "Jigglypuff",
+    "name_fr": "Rondoudou",
+    "types": [
+      "Normal",
+      "Fée"
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": 45,
+      "defense": 20,
+      "sp_attack": 45,
+      "sp_defense": 25,
+      "speed": 20
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 40
+    },
+    "image": "images/pokemons/39.png",
+    "resistances": [
+      "Spectre",
+      "Insecte",
+      "Ténèbres",
+      "Dragon"
+    ],
+    "weaknesses": [
+      "Poison",
+      "Acier"
+    ],
+    "cry_url": "sounds/39.ogg"
+  },
+  {
+    "id": 40,
+    "name_en": "Wigglytuff",
+    "name_fr": "Grodoudou",
+    "types": [
+      "Normal",
+      "Fée"
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": 70,
+      "defense": 45,
+      "sp_attack": 85,
+      "sp_defense": 50,
+      "speed": 45
+    },
+    "evolutions": {
+      "prev": 39,
+      "next": null
+    },
+    "image": "images/pokemons/40.png",
+    "resistances": [
+      "Spectre",
+      "Insecte",
+      "Ténèbres",
+      "Dragon"
+    ],
+    "weaknesses": [
+      "Poison",
+      "Acier"
+    ],
+    "cry_url": "sounds/40.ogg"
+  },
+  {
+    "id": 41,
+    "name_en": "Zubat",
+    "name_fr": "Nosferapti",
+    "types": [
+      "Poison",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "sp_attack": 30,
+      "sp_defense": 40,
+      "speed": 55
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 42
+    },
+    "image": "images/pokemons/41.png",
+    "resistances": [
+      "Plante",
+      "Poison",
+      "Combat",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Glace",
+      "Psychique",
+      "Roche"
+    ],
+    "cry_url": "sounds/41.ogg"
+  },
+  {
+    "id": 42,
+    "name_en": "Golbat",
+    "name_fr": "Nosferalto",
+    "types": [
+      "Poison",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 70,
+      "sp_attack": 65,
+      "sp_defense": 75,
+      "speed": 90
+    },
+    "evolutions": {
+      "prev": 41,
+      "next": null
+    },
+    "image": "images/pokemons/42.png",
+    "resistances": [
+      "Plante",
+      "Poison",
+      "Combat",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Glace",
+      "Psychique",
+      "Roche"
+    ],
+    "cry_url": "sounds/42.ogg"
+  },
+  {
+    "id": 43,
+    "name_en": "Oddish",
+    "name_fr": "Mystherbe",
+    "types": [
+      "Plante",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 55,
+      "sp_attack": 75,
+      "sp_defense": 65,
+      "speed": 30
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 44
+    },
+    "image": "images/pokemons/43.png",
+    "resistances": [
+      "Eau",
+      "Électrik",
+      "Combat",
+      "Fée",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Vol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/43.ogg"
+  },
+  {
+    "id": 44,
+    "name_en": "Gloom",
+    "name_fr": "Ortide",
+    "types": [
+      "Plante",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 70,
+      "sp_attack": 85,
+      "sp_defense": 75,
+      "speed": 40
+    },
+    "evolutions": {
+      "prev": 43,
+      "next": 45
+    },
+    "image": "images/pokemons/44.png",
+    "resistances": [
+      "Eau",
+      "Électrik",
+      "Combat",
+      "Fée",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Vol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/44.ogg"
+  },
+  {
+    "id": 45,
+    "name_en": "Vileplume",
+    "name_fr": "Rafflesia",
+    "types": [
+      "Plante",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 85,
+      "sp_attack": 110,
+      "sp_defense": 90,
+      "speed": 50
+    },
+    "evolutions": {
+      "prev": 44,
+      "next": null
+    },
+    "image": "images/pokemons/45.png",
+    "resistances": [
+      "Eau",
+      "Électrik",
+      "Combat",
+      "Fée",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Vol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/45.ogg"
+  },
+  {
+    "id": 46,
+    "name_en": "Paras",
+    "name_fr": "Paras",
+    "types": [
+      "Insecte",
+      "Plante"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 70,
+      "defense": 55,
+      "sp_attack": 45,
+      "sp_defense": 55,
+      "speed": 25
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 47
+    },
+    "image": "images/pokemons/46.png",
+    "resistances": [
+      "Plante",
+      "Eau"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Vol",
+      "Roche",
+      "Glace"
+    ],
+    "cry_url": "sounds/46.ogg"
+  },
+  {
+    "id": 47,
+    "name_en": "Parasect",
+    "name_fr": "Parasect",
+    "types": [
+      "Insecte",
+      "Plante"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 95,
+      "defense": 80,
+      "sp_attack": 60,
+      "sp_defense": 80,
+      "speed": 30
+    },
+    "evolutions": {
+      "prev": 46,
+      "next": null
+    },
+    "image": "images/pokemons/47.png",
+    "resistances": [
+      "Plante",
+      "Eau"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Vol",
+      "Roche",
+      "Glace"
+    ],
+    "cry_url": "sounds/47.ogg"
+  },
+  {
+    "id": 48,
+    "name_en": "Venonat",
+    "name_fr": "Mimitoss",
+    "types": [
+      "Insecte",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 55,
+      "defense": 50,
+      "sp_attack": 40,
+      "sp_defense": 55,
+      "speed": 45
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 49
+    },
+    "image": "images/pokemons/48.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Vol",
+      "Psychique",
+      "Roche"
+    ],
+    "cry_url": "sounds/48.ogg"
+  },
+  {
+    "id": 49,
+    "name_en": "Venomoth",
+    "name_fr": "Aéromite",
+    "types": [
+      "Insecte",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 65,
+      "defense": 60,
+      "sp_attack": 90,
+      "sp_defense": 75,
+      "speed": 90
+    },
+    "evolutions": {
+      "prev": 48,
+      "next": null
+    },
+    "image": "images/pokemons/49.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Vol",
+      "Psychique",
+      "Roche"
+    ],
+    "cry_url": "sounds/49.ogg"
+  },
+  {
+    "id": 50,
+    "name_en": "Diglett",
+    "name_fr": "Taupiqueur",
+    "types": [
+      "Sol"
+    ],
+    "stats": {
+      "hp": 10,
+      "attack": 55,
+      "defense": 25,
+      "sp_attack": 35,
+      "sp_defense": 45,
+      "speed": 95
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 51
+    },
+    "image": "images/pokemons/50.png",
+    "resistances": [
+      "Poison",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace"
+    ],
+    "cry_url": "sounds/50.ogg"
+  },
+  {
+    "id": 51,
+    "name_en": "Dugtrio",
+    "name_fr": "Triopikeur",
+    "types": [
+      "Sol"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 100,
+      "defense": 50,
+      "sp_attack": 50,
+      "sp_defense": 70,
+      "speed": 120
+    },
+    "evolutions": {
+      "prev": 50,
+      "next": null
+    },
+    "image": "images/pokemons/51.png",
+    "resistances": [
+      "Poison",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace"
+    ],
+    "cry_url": "sounds/51.ogg"
+  },
+  {
+    "id": 52,
+    "name_en": "Meowth",
+    "name_fr": "Miaouss",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "sp_attack": 40,
+      "sp_defense": 40,
+      "speed": 90
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 53
+    },
+    "image": "images/pokemons/52.png",
+    "resistances": [
+      "Spectre"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/52.ogg"
+  },
+  {
+    "id": 53,
+    "name_en": "Persian",
+    "name_fr": "Persian",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 70,
+      "defense": 60,
+      "sp_attack": 65,
+      "sp_defense": 65,
+      "speed": 115
+    },
+    "evolutions": {
+      "prev": 52,
+      "next": null
+    },
+    "image": "images/pokemons/53.png",
+    "resistances": [
+      "Spectre"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/53.ogg"
+  },
+  {
+    "id": 54,
+    "name_en": "Psyduck",
+    "name_fr": "Psykokwak",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 52,
+      "defense": 48,
+      "sp_attack": 65,
+      "sp_defense": 50,
+      "speed": 55
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 55
+    },
+    "image": "images/pokemons/54.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/54.ogg"
+  },
+  {
+    "id": 55,
+    "name_en": "Golduck",
+    "name_fr": "Akwakwak",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 78,
+      "sp_attack": 95,
+      "sp_defense": 80,
+      "speed": 85
+    },
+    "evolutions": {
+      "prev": 54,
+      "next": null
+    },
+    "image": "images/pokemons/55.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/55.ogg"
+  },
+  {
+    "id": 56,
+    "name_en": "Mankey",
+    "name_fr": "Férosinge",
+    "types": [
+      "Combat"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 80,
+      "defense": 35,
+      "sp_attack": 35,
+      "sp_defense": 45,
+      "speed": 70
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 57
+    },
+    "image": "images/pokemons/56.png",
+    "resistances": [
+      "Roche",
+      "Insecte",
+      "Ténèbres"
+    ],
+    "weaknesses": [
+      "Vol",
+      "Psy",
+      "Fée"
+    ],
+    "cry_url": "sounds/56.ogg"
+  },
+  {
+    "id": 57,
+    "name_en": "Primeape",
+    "name_fr": "Colossinge",
+    "types": [
+      "Combat"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 105,
+      "defense": 60,
+      "sp_attack": 60,
+      "sp_defense": 70,
+      "speed": 95
+    },
+    "evolutions": {
+      "prev": 56,
+      "next": null
+    },
+    "image": "images/pokemons/57.png",
+    "resistances": [
+      "Roche",
+      "Insecte",
+      "Ténèbres"
+    ],
+    "weaknesses": [
+      "Vol",
+      "Psy",
+      "Fée"
+    ],
+    "cry_url": "sounds/57.ogg"
+  },
+  {
+    "id": 58,
+    "name_en": "Growlithe",
+    "name_fr": "Caninos",
+    "types": [
+      "Feu"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 70,
+      "defense": 45,
+      "sp_attack": 70,
+      "sp_defense": 50,
+      "speed": 60
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 59
+    },
+    "image": "images/pokemons/58.png",
+    "resistances": [
+      "Feu",
+      "Plante",
+      "Glace",
+      "Insecte",
+      "Acier",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Sol",
+      "Roche"
+    ],
+    "cry_url": "sounds/58.ogg"
+  },
+  {
+    "id": 59,
+    "name_en": "Arcanine",
+    "name_fr": "Arcanin",
+    "types": [
+      "Feu"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 110,
+      "defense": 80,
+      "sp_attack": 100,
+      "sp_defense": 80,
+      "speed": 95
+    },
+    "evolutions": {
+      "prev": 58,
+      "next": null
+    },
+    "image": "images/pokemons/59.png",
+    "resistances": [
+      "Feu",
+      "Plante",
+      "Glace",
+      "Insecte",
+      "Acier",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Sol",
+      "Roche"
+    ],
+    "cry_url": "sounds/59.ogg"
+  },
+  {
+    "id": 60,
+    "name_en": "Poliwag",
+    "name_fr": "Ptitard",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 50,
+      "defense": 40,
+      "sp_attack": 40,
+      "sp_defense": 40,
+      "speed": 90
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 61
+    },
+    "image": "images/pokemons/60.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/60.ogg"
+  },
+  {
+    "id": 61,
+    "name_en": "Poliwhirl",
+    "name_fr": "Têtarte",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 65,
+      "sp_attack": 50,
+      "sp_defense": 50,
+      "speed": 90
+    },
+    "evolutions": {
+      "prev": 60,
+      "next": 62
+    },
+    "image": "images/pokemons/61.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/61.ogg"
+  },
+  {
+    "id": 62,
+    "name_en": "Poliwrath",
+    "name_fr": "Tartard",
+    "types": [
+      "Eau",
+      "Combat"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 95,
+      "defense": 95,
+      "sp_attack": 70,
+      "sp_defense": 90,
+      "speed": 70
+    },
+    "evolutions": {
+      "prev": 61,
+      "next": null
+    },
+    "image": "images/pokemons/62.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier",
+      "Roche",
+      "Insecte"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante",
+      "Vol",
+      "Psy",
+      "Fée"
+    ],
+    "cry_url": "sounds/62.ogg"
+  },
+  {
+    "id": 63,
+    "name_en": "Abra",
+    "name_fr": "Abra",
+    "types": [
+      "Psy"
+    ],
+    "stats": {
+      "hp": 25,
+      "attack": 20,
+      "defense": 15,
+      "sp_attack": 105,
+      "sp_defense": 55,
+      "speed": 90
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 64
+    },
+    "image": "images/pokemons/63.png",
+    "resistances": [
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Insecte",
+      "Spectre",
+      "Ténèbres"
+    ],
+    "cry_url": "sounds/63.ogg"
+  },
+  {
+    "id": 64,
+    "name_en": "Kadabra",
+    "name_fr": "Kadabra",
+    "types": [
+      "Psy"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 30,
+      "sp_attack": 120,
+      "sp_defense": 70,
+      "speed": 105
+    },
+    "evolutions": {
+      "prev": 63,
+      "next": 65
+    },
+    "image": "images/pokemons/64.png",
+    "resistances": [
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Insecte",
+      "Spectre",
+      "Ténèbres"
+    ],
+    "cry_url": "sounds/64.ogg"
+  },
+  {
+    "id": 65,
+    "name_en": "Alakazam",
+    "name_fr": "Alakazam",
+    "types": [
+      "Psy"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 50,
+      "defense": 45,
+      "sp_attack": 135,
+      "sp_defense": 95,
+      "speed": 120
+    },
+    "evolutions": {
+      "prev": 64,
+      "next": null
+    },
+    "image": "images/pokemons/65.png",
+    "resistances": [
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Insecte",
+      "Spectre",
+      "Ténèbres"
+    ],
+    "cry_url": "sounds/65.ogg"
+  },
+  {
+    "id": 66,
+    "name_en": "Machop",
+    "name_fr": "Machoc",
+    "types": [
+      "Combat"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 80,
+      "defense": 50,
+      "sp_attack": 35,
+      "sp_defense": 35,
+      "speed": 35
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 67
+    },
+    "image": "images/pokemons/66.png",
+    "resistances": [
+      "Roche",
+      "Insecte",
+      "Ténèbres"
+    ],
+    "weaknesses": [
+      "Vol",
+      "Psy",
+      "Fée"
+    ],
+    "cry_url": "sounds/66.ogg"
+  },
+  {
+    "id": 67,
+    "name_en": "Machoke",
+    "name_fr": "Machopeur",
+    "types": [
+      "Combat"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 70,
+      "sp_attack": 50,
+      "sp_defense": 60,
+      "speed": 45
+    },
+    "evolutions": {
+      "prev": 66,
+      "next": 68
+    },
+    "image": "images/pokemons/67.png",
+    "resistances": [
+      "Roche",
+      "Insecte",
+      "Ténèbres"
+    ],
+    "weaknesses": [
+      "Vol",
+      "Psy",
+      "Fée"
+    ],
+    "cry_url": "sounds/67.ogg"
+  },
+  {
+    "id": 68,
+    "name_en": "Machamp",
+    "name_fr": "Mackogneur",
+    "types": [
+      "Combat"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 130,
+      "defense": 80,
+      "sp_attack": 65,
+      "sp_defense": 85,
+      "speed": 55
+    },
+    "evolutions": {
+      "prev": 67,
+      "next": null
+    },
+    "image": "images/pokemons/68.png",
+    "resistances": [
+      "Roche",
+      "Insecte",
+      "Ténèbres"
+    ],
+    "weaknesses": [
+      "Vol",
+      "Psy",
+      "Fée"
+    ],
+    "cry_url": "sounds/68.ogg"
+  },
+  {
+    "id": 69,
+    "name_en": "Bellsprout",
+    "name_fr": "Chétiflor",
+    "types": [
+      "Plante",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 35,
+      "sp_attack": 70,
+      "sp_defense": 30,
+      "speed": 40
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 70
+    },
+    "image": "images/pokemons/69.png",
+    "resistances": [
+      "Eau",
+      "Électrik",
+      "Combat",
+      "Fée",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Vol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/69.ogg"
+  },
+  {
+    "id": 70,
+    "name_en": "Weepinbell",
+    "name_fr": "Boustiflor",
+    "types": [
+      "Plante",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 50,
+      "sp_attack": 85,
+      "sp_defense": 45,
+      "speed": 55
+    },
+    "evolutions": {
+      "prev": 69,
+      "next": 71
+    },
+    "image": "images/pokemons/70.png",
+    "resistances": [
+      "Eau",
+      "Électrik",
+      "Combat",
+      "Fée",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Vol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/70.ogg"
+  },
+  {
+    "id": 71,
+    "name_en": "Victreebel",
+    "name_fr": "Empiflor",
+    "types": [
+      "Plante",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "sp_attack": 100,
+      "sp_defense": 70,
+      "speed": 70
+    },
+    "evolutions": {
+      "prev": 70,
+      "next": null
+    },
+    "image": "images/pokemons/71.png",
+    "resistances": [
+      "Eau",
+      "Électrik",
+      "Combat",
+      "Fée",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Vol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/71.ogg"
+  },
+  {
+    "id": 72,
+    "name_en": "Tentacool",
+    "name_fr": "Tentacool",
+    "types": [
+      "Eau",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 35,
+      "sp_attack": 50,
+      "sp_defense": 100,
+      "speed": 70
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 73
+    },
+    "image": "images/pokemons/72.png",
+    "resistances": [
+      "Eau",
+      "Feu",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Sol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/72.ogg"
+  },
+  {
+    "id": 73,
+    "name_en": "Tentacruel",
+    "name_fr": "Tentacruel",
+    "types": [
+      "Eau",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 70,
+      "defense": 65,
+      "sp_attack": 80,
+      "sp_defense": 120,
+      "speed": 100
+    },
+    "evolutions": {
+      "prev": 72,
+      "next": null
+    },
+    "image": "images/pokemons/73.png",
+    "resistances": [
+      "Eau",
+      "Feu",
+      "Combat",
+      "Poison",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Sol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/73.ogg"
+  },
+  {
+    "id": 74,
+    "name_en": "Geodude",
+    "name_fr": "Racaillou",
+    "types": [
+      "Roche",
+      "Sol"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 80,
+      "defense": 100,
+      "sp_attack": 30,
+      "sp_defense": 30,
+      "speed": 20
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 75
+    },
+    "image": "images/pokemons/74.png",
+    "resistances": [
+      "Normal",
+      "Poison",
+      "Feu",
+      "Électrik",
+      "Vol",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace",
+      "Combat"
+    ],
+    "cry_url": "sounds/74.ogg"
+  },
+  {
+    "id": 75,
+    "name_en": "Graveler",
+    "name_fr": "Gravalanch",
+    "types": [
+      "Roche",
+      "Sol"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 95,
+      "defense": 115,
+      "sp_attack": 45,
+      "sp_defense": 45,
+      "speed": 35
+    },
+    "evolutions": {
+      "prev": 74,
+      "next": 76
+    },
+    "image": "images/pokemons/75.png",
+    "resistances": [
+      "Normal",
+      "Poison",
+      "Feu",
+      "Électrik",
+      "Vol",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace",
+      "Combat"
+    ],
+    "cry_url": "sounds/75.ogg"
+  },
+  {
+    "id": 76,
+    "name_en": "Golem",
+    "name_fr": "Grolem",
+    "types": [
+      "Roche",
+      "Sol"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 130,
+      "sp_attack": 55,
+      "sp_defense": 65,
+      "speed": 45
+    },
+    "evolutions": {
+      "prev": 75,
+      "next": null
+    },
+    "image": "images/pokemons/76.png",
+    "resistances": [
+      "Normal",
+      "Poison",
+      "Feu",
+      "Électrik",
+      "Vol",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace",
+      "Combat"
+    ],
+    "cry_url": "sounds/76.ogg"
+  },
+  {
+    "id": 77,
+    "name_en": "Ponyta",
+    "name_fr": "Ponyta",
+    "types": [
+      "Feu"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 55,
+      "sp_attack": 65,
+      "sp_defense": 65,
+      "speed": 90
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 78
+    },
+    "image": "images/pokemons/77.png",
+    "resistances": [
+      "Feu",
+      "Plante",
+      "Glace",
+      "Insecte",
+      "Acier",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Sol",
+      "Roche"
+    ],
+    "cry_url": "sounds/77.ogg"
+  },
+  {
+    "id": 78,
+    "name_en": "Rapidash",
+    "name_fr": "Galopa",
+    "types": [
+      "Feu"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 100,
+      "defense": 70,
+      "sp_attack": 80,
+      "sp_defense": 80,
+      "speed": 105
+    },
+    "evolutions": {
+      "prev": 77,
+      "next": null
+    },
+    "image": "images/pokemons/78.png",
+    "resistances": [
+      "Feu",
+      "Plante",
+      "Glace",
+      "Insecte",
+      "Acier",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Sol",
+      "Roche"
+    ],
+    "cry_url": "sounds/78.ogg"
+  },
+  {
+    "id": 79,
+    "name_en": "Slowpoke",
+    "name_fr": "Ramoloss",
+    "types": [
+      "Eau",
+      "Psy"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 65,
+      "defense": 65,
+      "sp_attack": 40,
+      "sp_defense": 40,
+      "speed": 15
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 80
+    },
+    "image": "images/pokemons/79.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier",
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante",
+      "Insecte",
+      "Ténèbres",
+      "Spectre"
+    ],
+    "cry_url": "sounds/79.ogg"
+  },
+  {
+    "id": 80,
+    "name_en": "Slowbro",
+    "name_fr": "Ramoloss",
+    "types": [
+      "Eau",
+      "Psy"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 110,
+      "sp_attack": 100,
+      "sp_defense": 80,
+      "speed": 30
+    },
+    "evolutions": {
+      "prev": 79,
+      "next": null
+    },
+    "image": "images/pokemons/80.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier",
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante",
+      "Insecte",
+      "Ténèbres",
+      "Spectre"
+    ],
+    "cry_url": "sounds/80.ogg"
+  },
+  {
+    "id": 81,
+    "name_en": "Magnemite",
+    "name_fr": "Magnéti",
+    "types": [
+      "Électrik",
+      "Acier"
+    ],
+    "stats": {
+      "hp": 25,
+      "attack": 35,
+      "defense": 70,
+      "sp_attack": 95,
+      "sp_defense": 55,
+      "speed": 45
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 82
+    },
+    "image": "images/pokemons/81.png",
+    "resistances": [
+      "Normal",
+      "Vol",
+      "Poison",
+      "Acier",
+      "Plante",
+      "Électrik",
+      "Psychique",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Feu"
+    ],
+    "cry_url": "sounds/81.ogg"
+  },
+  {
+    "id": 82,
+    "name_en": "Magneton",
+    "name_fr": "Magnéton",
+    "types": [
+      "Électrik",
+      "Acier"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 60,
+      "defense": 95,
+      "sp_attack": 120,
+      "sp_defense": 70,
+      "speed": 70
+    },
+    "evolutions": {
+      "prev": 81,
+      "next": null
+    },
+    "image": "images/pokemons/82.png",
+    "resistances": [
+      "Normal",
+      "Vol",
+      "Poison",
+      "Acier",
+      "Plante",
+      "Électrik",
+      "Psychique",
+      "Insecte",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Feu"
+    ],
+    "cry_url": "sounds/82.ogg"
+  },
+  {
+    "id": 83,
+    "name_en": "Farfetch'd",
+    "name_fr": "Canarticho",
+    "types": [
+      "Normal",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 52,
+      "attack": 90,
+      "defense": 55,
+      "sp_attack": 58,
+      "sp_defense": 62,
+      "speed": 60
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/83.png",
+    "resistances": [
+      "Insecte",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Glace",
+      "Roche"
+    ],
+    "cry_url": "sounds/83.ogg"
+  },
+  {
+    "id": 84,
+    "name_en": "Doduo",
+    "name_fr": "Doduo",
+    "types": [
+      "Normal",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 85,
+      "defense": 45,
+      "sp_attack": 35,
+      "sp_defense": 35,
+      "speed": 75
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 85
+    },
+    "image": "images/pokemons/84.png",
+    "resistances": [
+      "Insecte",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Glace",
+      "Roche"
+    ],
+    "cry_url": "sounds/84.ogg"
+  },
+  {
+    "id": 85,
+    "name_en": "Dodrio",
+    "name_fr": "Dodrio",
+    "types": [
+      "Normal",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 110,
+      "defense": 70,
+      "sp_attack": 60,
+      "sp_defense": 60,
+      "speed": 110
+    },
+    "evolutions": {
+      "prev": 84,
+      "next": null
+    },
+    "image": "images/pokemons/85.png",
+    "resistances": [
+      "Insecte",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Glace",
+      "Roche"
+    ],
+    "cry_url": "sounds/85.ogg"
+  },
+  {
+    "id": 86,
+    "name_en": "Seel",
+    "name_fr": "Otaria",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 45,
+      "defense": 55,
+      "sp_attack": 45,
+      "sp_defense": 70,
+      "speed": 45
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 87
+    },
+    "image": "images/pokemons/86.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/86.ogg"
+  },
+  {
+    "id": 87,
+    "name_en": "Dewgong",
+    "name_fr": "Lamantine",
+    "types": [
+      "Eau",
+      "Glace"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 70,
+      "defense": 80,
+      "sp_attack": 70,
+      "sp_defense": 95,
+      "speed": 70
+    },
+    "evolutions": {
+      "prev": 86,
+      "next": null
+    },
+    "image": "images/pokemons/87.png",
+    "resistances": [
+      "Glace",
+      "Eau",
+      "Feu",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Roche",
+      "Combat",
+      "Plante"
+    ],
+    "cry_url": "sounds/87.ogg"
+  },
+  {
+    "id": 88,
+    "name_en": "Grimer",
+    "name_fr": "Tadmorv",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 50,
+      "sp_attack": 40,
+      "sp_defense": 50,
+      "speed": 25
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 89
+    },
+    "image": "images/pokemons/88.png",
+    "resistances": [
+      "Plante",
+      "Fée",
+      "Combat",
+      "Poison",
+      "Insecte"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/88.ogg"
+  },
+  {
+    "id": 89,
+    "name_en": "Muk",
+    "name_fr": "Grotadmorv",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 105,
+      "defense": 75,
+      "sp_attack": 65,
+      "sp_defense": 100,
+      "speed": 50
+    },
+    "evolutions": {
+      "prev": 88,
+      "next": null
+    },
+    "image": "images/pokemons/89.png",
+    "resistances": [
+      "Plante",
+      "Fée",
+      "Combat",
+      "Poison",
+      "Insecte"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/89.ogg"
+  },
+  {
+    "id": 90,
+    "name_en": "Shellder",
+    "name_fr": "Krabby",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 65,
+      "defense": 100,
+      "sp_attack": 45,
+      "sp_defense": 25,
+      "speed": 40
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 91
+    },
+    "image": "images/pokemons/90.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/90.ogg"
+  },
+  {
+    "id": 91,
+    "name_en": "Cloyster",
+    "name_fr": "Krabboss",
+    "types": [
+      "Eau",
+      "Glace"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 95,
+      "defense": 180,
+      "sp_attack": 85,
+      "sp_defense": 45,
+      "speed": 70
+    },
+    "evolutions": {
+      "prev": 90,
+      "next": null
+    },
+    "image": "images/pokemons/91.png",
+    "resistances": [
+      "Glace",
+      "Eau",
+      "Feu",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Roche",
+      "Combat",
+      "Plante"
+    ],
+    "cry_url": "sounds/91.ogg"
+  },
+  {
+    "id": 92,
+    "name_en": "Gastly",
+    "name_fr": "Fantominus",
+    "types": [
+      "Spectre",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 35,
+      "defense": 30,
+      "sp_attack": 100,
+      "sp_defense": 35,
+      "speed": 80
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 93
+    },
+    "image": "images/pokemons/92.png",
+    "resistances": [
+      "Poison",
+      "Combat",
+      "Insecte",
+      "Fée",
+      "Normal"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Spectre",
+      "Ténèbres"
+    ],
+    "cry_url": "sounds/92.ogg"
+  },
+  {
+    "id": 93,
+    "name_en": "Haunter",
+    "name_fr": "Spectrum",
+    "types": [
+      "Spectre",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 45,
+      "sp_attack": 115,
+      "sp_defense": 55,
+      "speed": 95
+    },
+    "evolutions": {
+      "prev": 92,
+      "next": 94
+    },
+    "image": "images/pokemons/93.png",
+    "resistances": [
+      "Poison",
+      "Combat",
+      "Insecte",
+      "Fée",
+      "Normal"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Spectre",
+      "Ténèbres"
+    ],
+    "cry_url": "sounds/93.ogg"
+  },
+  {
+    "id": 94,
+    "name_en": "Gengar",
+    "name_fr": "Ectoplasma",
+    "types": [
+      "Spectre",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 60,
+      "sp_attack": 130,
+      "sp_defense": 75,
+      "speed": 110
+    },
+    "evolutions": {
+      "prev": 93,
+      "next": null
+    },
+    "image": "images/pokemons/94.png",
+    "resistances": [
+      "Poison",
+      "Combat",
+      "Insecte",
+      "Fée",
+      "Normal"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Spectre",
+      "Ténèbres"
+    ],
+    "cry_url": "sounds/94.ogg"
+  },
+  {
+    "id": 95,
+    "name_en": "Onix",
+    "name_fr": "Onix",
+    "types": [
+      "Roche",
+      "Sol"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 45,
+      "defense": 160,
+      "sp_attack": 30,
+      "sp_defense": 45,
+      "speed": 70
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 0
+    },
+    "image": "images/pokemons/95.png",
+    "resistances": [
+      "Normal",
+      "Poison",
+      "Vol",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace",
+      "Combat"
+    ],
+    "cry_url": "sounds/95.ogg"
+  },
+  {
+    "id": 96,
+    "name_en": "Drowzee",
+    "name_fr": "Soporifik",
+    "types": [
+      "Psy"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 48,
+      "defense": 45,
+      "sp_attack": 43,
+      "sp_defense": 90,
+      "speed": 42
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 97
+    },
+    "image": "images/pokemons/96.png",
+    "resistances": [
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Insecte",
+      "Spectre",
+      "Ténèbres"
+    ],
+    "cry_url": "sounds/96.ogg"
+  },
+  {
+    "id": 97,
+    "name_en": "Hypno",
+    "name_fr": "Hypnomade",
+    "types": [
+      "Psy"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 73,
+      "defense": 70,
+      "sp_attack": 73,
+      "sp_defense": 115,
+      "speed": 67
+    },
+    "evolutions": {
+      "prev": 96,
+      "next": null
+    },
+    "image": "images/pokemons/97.png",
+    "resistances": [
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Insecte",
+      "Spectre",
+      "Ténèbres"
+    ],
+    "cry_url": "sounds/97.ogg"
+  },
+  {
+    "id": 98,
+    "name_en": "Krabby",
+    "name_fr": "Krabby",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 105,
+      "defense": 90,
+      "sp_attack": 25,
+      "sp_defense": 25,
+      "speed": 50
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 99
+    },
+    "image": "images/pokemons/98.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/98.ogg"
+  },
+  {
+    "id": 99,
+    "name_en": "Kingler",
+    "name_fr": "Krabboss",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 130,
+      "defense": 115,
+      "sp_attack": 50,
+      "sp_defense": 50,
+      "speed": 75
+    },
+    "evolutions": {
+      "prev": 98,
+      "next": null
+    },
+    "image": "images/pokemons/99.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/99.ogg"
+  },
+  {
+    "id": 100,
+    "name_en": "Voltorb",
+    "name_fr": "Voltorbe",
+    "types": [
+      "Électrik"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 50,
+      "sp_attack": 55,
+      "sp_defense": 55,
+      "speed": 100
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 101
+    },
+    "image": "images/pokemons/100.png",
+    "resistances": [
+      "Électrik"
+    ],
+    "weaknesses": [
+      "Sol"
+    ],
+    "cry_url": "sounds/100.ogg"
+  },
+  {
+    "id": 101,
+    "name_en": "Electrode",
+    "name_fr": "Électrode",
+    "types": [
+      "Électrik"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 70,
+      "sp_attack": 80,
+      "sp_defense": 80,
+      "speed": 150
+    },
+    "evolutions": {
+      "prev": 100,
+      "next": null
+    },
+    "image": "images/pokemons/101.png",
+    "resistances": [
+      "Électrik"
+    ],
+    "weaknesses": [
+      "Sol"
+    ],
+    "cry_url": "sounds/101.ogg"
+  },
+  {
+    "id": 102,
+    "name_en": "Exeggcute",
+    "name_fr": "Noeunoeuf",
+    "types": [
+      "Plante",
+      "Psy"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 40,
+      "defense": 80,
+      "sp_attack": 60,
+      "sp_defense": 45,
+      "speed": 40
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 103
+    },
+    "image": "images/pokemons/102.png",
+    "resistances": [
+      "Plante",
+      "Eau",
+      "Électrik",
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Poison",
+      "Insecte",
+      "Spectre",
+      "Vol"
+    ],
+    "cry_url": "sounds/102.ogg"
+  },
+  {
+    "id": 103,
+    "name_en": "Exeggutor",
+    "name_fr": "Noadkoko",
+    "types": [
+      "Plante",
+      "Psy"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 95,
+      "defense": 85,
+      "sp_attack": 125,
+      "sp_defense": 75,
+      "speed": 55
+    },
+    "evolutions": {
+      "prev": 102,
+      "next": null
+    },
+    "image": "images/pokemons/103.png",
+    "resistances": [
+      "Plante",
+      "Eau",
+      "Électrik",
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Poison",
+      "Insecte",
+      "Spectre",
+      "Vol"
+    ],
+    "cry_url": "sounds/103.ogg"
+  },
+  {
+    "id": 104,
+    "name_en": "Cubone",
+    "name_fr": "Osselait",
+    "types": [
+      "Sol"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 95,
+      "sp_attack": 40,
+      "sp_defense": 50,
+      "speed": 35
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 105
+    },
+    "image": "images/pokemons/104.png",
+    "resistances": [
+      "Poison",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace"
+    ],
+    "cry_url": "sounds/104.ogg"
+  },
+  {
+    "id": 105,
+    "name_en": "Marowak",
+    "name_fr": "Ossatueur",
+    "types": [
+      "Sol"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80,
+      "defense": 110,
+      "sp_attack": 50,
+      "sp_defense": 80,
+      "speed": 45
+    },
+    "evolutions": {
+      "prev": 104,
+      "next": null
+    },
+    "image": "images/pokemons/105.png",
+    "resistances": [
+      "Poison",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace"
+    ],
+    "cry_url": "sounds/105.ogg"
+  },
+  {
+    "id": 106,
+    "name_en": "Hitmonlee",
+    "name_fr": "Kicklee",
+    "types": [
+      "Combat"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 120,
+      "defense": 53,
+      "sp_attack": 35,
+      "sp_defense": 110,
+      "speed": 87
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/106.png",
+    "resistances": [
+      "Roche",
+      "Insecte",
+      "Ténèbres"
+    ],
+    "weaknesses": [
+      "Vol",
+      "Psy",
+      "Fée"
+    ],
+    "cry_url": "sounds/106.ogg"
+  },
+  {
+    "id": 107,
+    "name_en": "Hitmonchan",
+    "name_fr": "Tygnon",
+    "types": [
+      "Combat"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 105,
+      "defense": 79,
+      "sp_attack": 35,
+      "sp_defense": 110,
+      "speed": 76
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/107.png",
+    "resistances": [
+      "Roche",
+      "Insecte",
+      "Ténèbres"
+    ],
+    "weaknesses": [
+      "Vol",
+      "Psy",
+      "Fée"
+    ],
+    "cry_url": "sounds/107.ogg"
+  },
+  {
+    "id": 108,
+    "name_en": "Lickitung",
+    "name_fr": "Excelangue",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 55,
+      "defense": 75,
+      "sp_attack": 60,
+      "sp_defense": 75,
+      "speed": 30
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/108.png",
+    "resistances": [
+      "Roche"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/108.ogg"
+  },
+  {
+    "id": 109,
+    "name_en": "Koffing",
+    "name_fr": "Smogo",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 65,
+      "defense": 95,
+      "sp_attack": 60,
+      "sp_defense": 45,
+      "speed": 35
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 110
+    },
+    "image": "images/pokemons/109.png",
+    "resistances": [
+      "Plante",
+      "Fée",
+      "Combat",
+      "Poison",
+      "Insecte"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/109.ogg"
+  },
+  {
+    "id": 110,
+    "name_en": "Weezing",
+    "name_fr": "Smogogo",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 120,
+      "sp_attack": 85,
+      "sp_defense": 70,
+      "speed": 60
+    },
+    "evolutions": {
+      "prev": 109,
+      "next": null
+    },
+    "image": "images/pokemons/110.png",
+    "resistances": [
+      "Plante",
+      "Fée",
+      "Combat",
+      "Poison",
+      "Insecte"
+    ],
+    "weaknesses": [
+      "Sol",
+      "Psychique"
+    ],
+    "cry_url": "sounds/110.ogg"
+  },
+  {
+    "id": 111,
+    "name_en": "Rhyhorn",
+    "name_fr": "Rhinocorne",
+    "types": [
+      "Sol",
+      "Roche"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 85,
+      "defense": 95,
+      "sp_attack": 30,
+      "sp_defense": 30,
+      "speed": 25
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 112
+    },
+    "image": "images/pokemons/111.png",
+    "resistances": [
+      "Normal",
+      "Poison",
+      "Feu",
+      "Électrik",
+      "Vol",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace",
+      "Combat"
+    ],
+    "cry_url": "sounds/111.ogg"
+  },
+  {
+    "id": 112,
+    "name_en": "Rhydon",
+    "name_fr": "Rhinoféros",
+    "types": [
+      "Sol",
+      "Roche"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 130,
+      "defense": 120,
+      "sp_attack": 45,
+      "sp_defense": 45,
+      "speed": 40
+    },
+    "evolutions": {
+      "prev": 111,
+      "next": null
+    },
+    "image": "images/pokemons/112.png",
+    "resistances": [
+      "Normal",
+      "Poison",
+      "Feu",
+      "Électrik",
+      "Vol",
+      "Roche"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Plante",
+      "Glace",
+      "Combat"
+    ],
+    "cry_url": "sounds/112.ogg"
+  },
+  {
+    "id": 113,
+    "name_en": "Chansey",
+    "name_fr": "Leveinard",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 250,
+      "attack": 5,
+      "defense": 5,
+      "sp_attack": 35,
+      "sp_defense": 105,
+      "speed": 50
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/113.png",
+    "resistances": [
+      "Roche"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/113.ogg"
+  },
+  {
+    "id": 114,
+    "name_en": "Tangela",
+    "name_fr": "Saquedeneu",
+    "types": [
+      "Plante"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 55,
+      "defense": 115,
+      "sp_attack": 100,
+      "sp_defense": 40,
+      "speed": 60
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/114.png",
+    "resistances": [
+      "Eau",
+      "Électrik",
+      "Plante"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Glace",
+      "Poison"
+    ],
+    "cry_url": "sounds/114.ogg"
+  },
+  {
+    "id": 115,
+    "name_en": "Kangaskhan",
+    "name_fr": "Kangourex",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 95,
+      "defense": 80,
+      "sp_attack": 40,
+      "sp_defense": 80,
+      "speed": 90
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/115.png",
+    "resistances": [
+      "Roche"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/115.ogg"
+  },
+  {
+    "id": 116,
+    "name_en": "Horsea",
+    "name_fr": "Hypotrempe",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 40,
+      "defense": 70,
+      "sp_attack": 70,
+      "sp_defense": 25,
+      "speed": 60
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 117
+    },
+    "image": "images/pokemons/116.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/116.ogg"
+  },
+  {
+    "id": 117,
+    "name_en": "Seadra",
+    "name_fr": "Hypocéan",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 65,
+      "defense": 95,
+      "sp_attack": 95,
+      "sp_defense": 45,
+      "speed": 85
+    },
+    "evolutions": {
+      "prev": 116,
+      "next": 0
+    },
+    "image": "images/pokemons/117.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/117.ogg"
+  },
+  {
+    "id": 118,
+    "name_en": "Goldeen",
+    "name_fr": "Poissirène",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 67,
+      "defense": 60,
+      "sp_attack": 35,
+      "sp_defense": 50,
+      "speed": 63
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 119
+    },
+    "image": "images/pokemons/118.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/118.ogg"
+  },
+  {
+    "id": 119,
+    "name_en": "Seaking",
+    "name_fr": "Poissoroy",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 92,
+      "defense": 65,
+      "sp_attack": 65,
+      "sp_defense": 80,
+      "speed": 68
+    },
+    "evolutions": {
+      "prev": 118,
+      "next": null
+    },
+    "image": "images/pokemons/119.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/119.ogg"
+  },
+  {
+    "id": 120,
+    "name_en": "Staryu",
+    "name_fr": "Stari",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 45,
+      "defense": 55,
+      "sp_attack": 70,
+      "sp_defense": 55,
+      "speed": 85
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 121
+    },
+    "image": "images/pokemons/120.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/120.ogg"
+  },
+  {
+    "id": 121,
+    "name_en": "Starmie",
+    "name_fr": "Staross",
+    "types": [
+      "Eau",
+      "Psy"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75,
+      "defense": 85,
+      "sp_attack": 100,
+      "sp_defense": 85,
+      "speed": 115
+    },
+    "evolutions": {
+      "prev": 120,
+      "next": null
+    },
+    "image": "images/pokemons/121.png",
+    "resistances": [
+      "Eau",
+      "Feu",
+      "Glace",
+      "Acier",
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante",
+      "Ténèbres"
+    ],
+    "cry_url": "sounds/121.ogg"
+  },
+  {
+    "id": 122,
+    "name_en": "Mr. Mime",
+    "name_fr": "M. Mime",
+    "types": [
+      "Psy",
+      "Fée"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 65,
+      "sp_attack": 100,
+      "sp_defense": 120,
+      "speed": 90
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/122.png",
+    "resistances": [
+      "Combat",
+      "Insecte",
+      "Psychique",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Poison",
+      "Spectre"
+    ],
+    "cry_url": "sounds/122.ogg"
+  },
+  {
+    "id": 123,
+    "name_en": "Scyther",
+    "name_fr": "Insécateur",
+    "types": [
+      "Insecte",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 80,
+      "sp_attack": 55,
+      "sp_defense": 80,
+      "speed": 105
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/123.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Insecte"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Électrik",
+      "Roche"
+    ],
+    "cry_url": "sounds/123.ogg"
+  },
+  {
+    "id": 124,
+    "name_en": "Jynx",
+    "name_fr": "Lippoutou",
+    "types": [
+      "Glace",
+      "Psy"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 50,
+      "defense": 35,
+      "sp_attack": 115,
+      "sp_defense": 95,
+      "speed": 95
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/124.png",
+    "resistances": [
+      "Plante",
+      "Sol",
+      "Glace",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Insecte",
+      "Roche",
+      "Ténèbres"
+    ],
+    "cry_url": "sounds/124.ogg"
+  },
+  {
+    "id": 125,
+    "name_en": "Electabuzz",
+    "name_fr": "Élektek",
+    "types": [
+      "Électrik"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 83,
+      "defense": 57,
+      "sp_attack": 95,
+      "sp_defense": 85,
+      "speed": 105
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/125.png",
+    "resistances": [
+      "Électrik"
+    ],
+    "weaknesses": [
+      "Sol"
+    ],
+    "cry_url": "sounds/125.ogg"
+  },
+  {
+    "id": 126,
+    "name_en": "Magmar",
+    "name_fr": "Magmar",
+    "types": [
+      "Feu"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 95,
+      "defense": 57,
+      "sp_attack": 100,
+      "sp_defense": 85,
+      "speed": 93
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/126.png",
+    "resistances": [
+      "Plante",
+      "Glace",
+      "Insecte",
+      "Acier",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Roche",
+      "Sol"
+    ],
+    "cry_url": "sounds/126.ogg"
+  },
+  {
+    "id": 127,
+    "name_en": "Pinsir",
+    "name_fr": "Scarabrute",
+    "types": [
+      "Insecte"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 125,
+      "defense": 100,
+      "sp_attack": 55,
+      "sp_defense": 70,
+      "speed": 85
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/127.png",
+    "resistances": [
+      "Plante",
+      "Combat",
+      "Insecte"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Vol",
+      "Roche"
+    ],
+    "cry_url": "sounds/127.ogg"
+  },
+  {
+    "id": 128,
+    "name_en": "Tauros",
+    "name_fr": "Tauros",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 95,
+      "sp_attack": 40,
+      "sp_defense": 70,
+      "speed": 110
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/128.png",
+    "resistances": [
+      "Roche"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/128.ogg"
+  },
+  {
+    "id": 129,
+    "name_en": "Magikarp",
+    "name_fr": "Magicarpe",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 10,
+      "defense": 55,
+      "sp_attack": 15,
+      "sp_defense": 20,
+      "speed": 80
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 130
+    },
+    "image": "images/pokemons/129.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/129.ogg"
+  },
+  {
+    "id": 130,
+    "name_en": "Gyarados",
+    "name_fr": "Léviator",
+    "types": [
+      "Eau",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 125,
+      "defense": 79,
+      "sp_attack": 60,
+      "sp_defense": 100,
+      "speed": 81
+    },
+    "evolutions": {
+      "prev": 129,
+      "next": null
+    },
+    "image": "images/pokemons/130.png",
+    "resistances": [
+      "Plante",
+      "Feu",
+      "Combat",
+      "Insecte"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Roche"
+    ],
+    "cry_url": "sounds/130.ogg"
+  },
+  {
+    "id": 131,
+    "name_en": "Lapras",
+    "name_fr": "Lokhlass",
+    "types": [
+      "Eau",
+      "Glace"
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 85,
+      "defense": 80,
+      "sp_attack": 85,
+      "sp_defense": 95,
+      "speed": 60
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/131.png",
+    "resistances": [
+      "Glace",
+      "Eau",
+      "Feu",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Roche",
+      "Combat",
+      "Plante"
+    ],
+    "cry_url": "sounds/131.ogg"
+  },
+  {
+    "id": 132,
+    "name_en": "Ditto",
+    "name_fr": "Métamorph",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 48,
+      "attack": 48,
+      "defense": 48,
+      "sp_attack": 48,
+      "sp_defense": 48,
+      "speed": 48
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/132.png",
+    "resistances": [
+      "Roche"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/132.ogg"
+  },
+  {
+    "id": 133,
+    "name_en": "Eevee",
+    "name_fr": "Évoli",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 55,
+      "defense": 50,
+      "sp_attack": 45,
+      "sp_defense": 65,
+      "speed": 55
+    },
+    "evolutions": {
+      "prev": null,
+      "next": [
+        134,
+        135,
+        136,
+        196,
+        197,
+        470,
+        471
+      ]
+    },
+    "image": "images/pokemons/133.png",
+    "resistances": [
+      "Roche"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/133.ogg"
+  },
+  {
+    "id": 134,
+    "name_en": "Vaporeon",
+    "name_fr": "Aquali",
+    "types": [
+      "Eau"
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 65,
+      "defense": 60,
+      "sp_attack": 110,
+      "sp_defense": 95,
+      "speed": 65
+    },
+    "evolutions": {
+      "prev": 133,
+      "next": null
+    },
+    "image": "images/pokemons/134.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Glace",
+      "Acier"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante"
+    ],
+    "cry_url": "sounds/134.ogg"
+  },
+  {
+    "id": 135,
+    "name_en": "Jolteon",
+    "name_fr": "Voltali",
+    "types": [
+      "Électrik"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 60,
+      "sp_attack": 110,
+      "sp_defense": 95,
+      "speed": 130
+    },
+    "evolutions": {
+      "prev": 133,
+      "next": null
+    },
+    "image": "images/pokemons/135.png",
+    "resistances": [
+      "Électrik"
+    ],
+    "weaknesses": [
+      "Sol"
+    ],
+    "cry_url": "sounds/135.ogg"
+  },
+  {
+    "id": 136,
+    "name_en": "Flareon",
+    "name_fr": "Pyroli",
+    "types": [
+      "Feu"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130,
+      "defense": 60,
+      "sp_attack": 95,
+      "sp_defense": 110,
+      "speed": 65
+    },
+    "evolutions": {
+      "prev": 133,
+      "next": null
+    },
+    "image": "images/pokemons/136.png",
+    "resistances": [
+      "Plante",
+      "Glace",
+      "Insecte",
+      "Acier",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Roche",
+      "Sol"
+    ],
+    "cry_url": "sounds/136.ogg"
+  },
+  {
+    "id": 137,
+    "name_en": "Porygon",
+    "name_fr": "Porygon",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 60,
+      "defense": 70,
+      "sp_attack": 85,
+      "sp_defense": 75,
+      "speed": 40
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 233
+    },
+    "image": "images/pokemons/137.png",
+    "resistances": [
+      "Roche"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/137.ogg"
+  },
+  {
+    "id": 138,
+    "name_en": "Omanyte",
+    "name_fr": "Amonita",
+    "types": [
+      "Roche",
+      "Eau"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 40,
+      "defense": 100,
+      "sp_attack": 90,
+      "sp_defense": 55,
+      "speed": 35
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 139
+    },
+    "image": "images/pokemons/138.png",
+    "resistances": [
+      "Feu",
+      "Vol",
+      "Poison",
+      "Normal"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante",
+      "Combat",
+      "Sol"
+    ],
+    "cry_url": "sounds/138.ogg"
+  },
+  {
+    "id": 139,
+    "name_en": "Omastar",
+    "name_fr": "Amonistar",
+    "types": [
+      "Roche",
+      "Eau"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 60,
+      "defense": 125,
+      "sp_attack": 115,
+      "sp_defense": 70,
+      "speed": 55
+    },
+    "evolutions": {
+      "prev": 138,
+      "next": null
+    },
+    "image": "images/pokemons/139.png",
+    "resistances": [
+      "Feu",
+      "Vol",
+      "Poison",
+      "Normal"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante",
+      "Combat",
+      "Sol"
+    ],
+    "cry_url": "sounds/139.ogg"
+  },
+  {
+    "id": 140,
+    "name_en": "Kabuto",
+    "name_fr": "Kabuto",
+    "types": [
+      "Roche",
+      "Eau"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 80,
+      "defense": 90,
+      "sp_attack": 55,
+      "sp_defense": 45,
+      "speed": 55
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 141
+    },
+    "image": "images/pokemons/140.png",
+    "resistances": [
+      "Feu",
+      "Vol",
+      "Poison",
+      "Normal"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante",
+      "Combat",
+      "Sol"
+    ],
+    "cry_url": "sounds/140.ogg"
+  },
+  {
+    "id": 141,
+    "name_en": "Kabutops",
+    "name_fr": "Kabutops",
+    "types": [
+      "Roche",
+      "Eau"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 115,
+      "defense": 105,
+      "sp_attack": 65,
+      "sp_defense": 70,
+      "speed": 80
+    },
+    "evolutions": {
+      "prev": 140,
+      "next": null
+    },
+    "image": "images/pokemons/141.png",
+    "resistances": [
+      "Feu",
+      "Vol",
+      "Poison",
+      "Normal"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Plante",
+      "Combat",
+      "Sol"
+    ],
+    "cry_url": "sounds/141.ogg"
+  },
+  {
+    "id": 142,
+    "name_en": "Aerodactyl",
+    "name_fr": "Ptéra",
+    "types": [
+      "Roche",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "sp_attack": 60,
+      "sp_defense": 75,
+      "speed": 130
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/142.png",
+    "resistances": [
+      "Normal",
+      "Vol",
+      "Poison"
+    ],
+    "weaknesses": [
+      "Électrik",
+      "Eau",
+      "Glace",
+      "Roche"
+    ],
+    "cry_url": "sounds/142.ogg"
+  },
+  {
+    "id": 143,
+    "name_en": "Snorlax",
+    "name_fr": "Ronflex",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 160,
+      "attack": 110,
+      "defense": 65,
+      "sp_attack": 65,
+      "sp_defense": 110,
+      "speed": 30
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/143.png",
+    "resistances": [
+      "Roche"
+    ],
+    "weaknesses": [
+      "Combat"
+    ],
+    "cry_url": "sounds/143.ogg"
+  },
+  {
+    "id": 144,
+    "name_en": "Articuno",
+    "name_fr": "Artikodin",
+    "types": [
+      "Glace",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 85,
+      "defense": 100,
+      "sp_attack": 95,
+      "sp_defense": 125,
+      "speed": 85
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/144.png",
+    "resistances": [
+      "Insecte",
+      "Plante",
+      "Sol",
+      "Glace"
+    ],
+    "weaknesses": [
+      "Feu",
+      "Électrik",
+      "Roche",
+      "Acier"
+    ],
+    "cry_url": "sounds/144.ogg"
+  },
+  {
+    "id": 145,
+    "name_en": "Zapdos",
+    "name_fr": "Électhor",
+    "types": [
+      "Électrik",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 90,
+      "defense": 85,
+      "sp_attack": 125,
+      "sp_defense": 90,
+      "speed": 100
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/145.png",
+    "resistances": [
+      "Combat",
+      "Insecte",
+      "Vol",
+      "Électrik"
+    ],
+    "weaknesses": [
+      "Glace",
+      "Roche"
+    ],
+    "cry_url": "sounds/145.ogg"
+  },
+  {
+    "id": 146,
+    "name_en": "Moltres",
+    "name_fr": "Sulfura",
+    "types": [
+      "Feu",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 90,
+      "sp_attack": 125,
+      "sp_defense": 85,
+      "speed": 90
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/146.png",
+    "resistances": [
+      "Plante",
+      "Insecte",
+      "Acier",
+      "Feu",
+      "Combat",
+      "Fée"
+    ],
+    "weaknesses": [
+      "Eau",
+      "Électrik",
+      "Roche"
+    ],
+    "cry_url": "sounds/146.ogg"
+  },
+  {
+    "id": 147,
+    "name_en": "Dratini",
+    "name_fr": "Minidraco",
+    "types": [
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 41,
+      "attack": 64,
+      "defense": 45,
+      "sp_attack": 50,
+      "sp_defense": 50,
+      "speed": 50
+    },
+    "evolutions": {
+      "prev": null,
+      "next": 148
+    },
+    "image": "images/pokemons/147.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Plante",
+      "Électrik"
+    ],
+    "weaknesses": [
+      "Glace",
+      "Dragon",
+      "Fée"
+    ],
+    "cry_url": "sounds/147.ogg"
+  },
+  {
+    "id": 148,
+    "name_en": "Dragonair",
+    "name_fr": "Draco",
+    "types": [
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 61,
+      "attack": 84,
+      "defense": 65,
+      "sp_attack": 70,
+      "sp_defense": 70,
+      "speed": 70
+    },
+    "evolutions": {
+      "prev": 147,
+      "next": 149
+    },
+    "image": "images/pokemons/148.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Plante",
+      "Électrik"
+    ],
+    "weaknesses": [
+      "Glace",
+      "Dragon",
+      "Fée"
+    ],
+    "cry_url": "sounds/148.ogg"
+  },
+  {
+    "id": 149,
+    "name_en": "Dragonite",
+    "name_fr": "Dracolosse",
+    "types": [
+      "Dragon",
+      "Vol"
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 134,
+      "defense": 95,
+      "sp_attack": 100,
+      "sp_defense": 100,
+      "speed": 80
+    },
+    "evolutions": {
+      "prev": 148,
+      "next": null
+    },
+    "image": "images/pokemons/149.png",
+    "resistances": [
+      "Feu",
+      "Eau",
+      "Plante",
+      "Insecte",
+      "Combat",
+      "Électrik"
+    ],
+    "weaknesses": [
+      "Glace",
+      "Dragon",
+      "Roche",
+      "Fée"
+    ],
+    "cry_url": "sounds/149.ogg"
+  },
+  {
+    "id": 150,
+    "name_en": "Mewtwo",
+    "name_fr": "Mewtwo",
+    "types": [
+      "Psy"
+    ],
+    "stats": {
+      "hp": 106,
+      "attack": 110,
+      "defense": 90,
+      "sp_attack": 154,
+      "sp_defense": 90,
+      "speed": 130
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/150.png",
+    "resistances": [
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Insecte",
+      "Ténèbres",
+      "Spectre"
+    ],
+    "cry_url": "sounds/150.ogg"
+  },
+  {
+    "id": 151,
+    "name_en": "Mew",
+    "name_fr": "Mew",
+    "types": [
+      "Psy"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 100,
+      "sp_attack": 100,
+      "sp_defense": 100,
+      "speed": 100
+    },
+    "evolutions": {
+      "prev": null,
+      "next": null
+    },
+    "image": "images/pokemons/151.png",
+    "resistances": [
+      "Combat",
+      "Psy"
+    ],
+    "weaknesses": [
+      "Insecte",
+      "Ténèbres",
+      "Spectre"
+    ],
+    "cry_url": "sounds/151.ogg"
+  }
+]

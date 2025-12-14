@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="images/pokeball.svg" type="image/svg+xml" />
+    <title>Détails du Pokémon</title>
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="header__container">
+        <div class="header__left">
+          <a href="/index.html" aria-label="Page d'accueil du Pokédex">
+            <img src="images/pokeball.svg" alt="Icône d'une Pokéball" />
+            <p>Pokédex 151</p>
+          </a>
+        </div>
+        <div class="header__right">
+          <span class="header__right_led red"></span>
+          <span class="header__right_led yellow"></span>
+          <span class="header__right_led green"></span>
+        </div>
+      </div>
+    </header>
+
+    <main class="details">
+      <section class="details__informations">
+        <div class="details__informations_top">
+          <div class="details__info">
+            <a
+              class="details__link"
+              href="/index.html"
+              aria-label="Retourner au pokédex"
+            ></a>
+            <h1 class="details__title"></h1>
+            <span class="details__number"></span>
+            <span class="details__sound"></span>
+          </div>
+          <div class="details__img">
+            <a href="#" class="details__img_prev"></a>
+            <img src="" alt="" />
+            <a href="#" class="details__img_next"></a>
+          </div>
+        </div>
+        <div class="details__informations_middle">
+          <div class="details__types"></div>
+          <div class="details__stats">
+            <div class="details__stats_hp">
+              <p class="details__stats_hp_text">HP</p>
+              <span class="details__stats_hp_stat"></span>
+            </div>
+            <div class="details__stats_attack">
+              <p class="details__stats_attack_text">Attaque</p>
+              <span class="details__stats_attack_stat"></span>
+            </div>
+            <div class="details__stats_defense">
+              <p class="details__stats_defense_text">Défense</p>
+              <span class="details__stats_defense_stat"></span>
+            </div>
+            <div class="details__stats_spAttack">
+              <p class="details__stats_spAttack_text">Sp. Attaque</p>
+              <span class="details__stats_spAttack_stat"></span>
+            </div>
+            <div class="details__stats_spDefense">
+              <p class="details__stats_spDefense_text">Sp. Défense</p>
+              <span class="details__stats_spDefense_stat"></span>
+            </div>
+          </div>
+          <div class="details__weaknesses">
+            <p class="details__weaknesses_text">Faiblesses</p>
+            <span class="details__weaknesses_types"></span>
+          </div>
+          <div class="details__resistances">
+            <p class="details__resistances_text">Résistances</p>
+            <span class="details__resistances_types"></span>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p class="footer__copyright">
+        Pokédex créé par
+        <a
+          href="https://manon-poucet.com/"
+          target="_blank"
+          aria-label="Voir le site de Manon"
+          >Manon Poucet</a
+        >
+        © <span id="copyright-year"></span>
+      </p>
+    </footer>
+  </body>
+  <script src="js/details.js"></script>
+  <script src="js/footer.js"></script>
+</html>

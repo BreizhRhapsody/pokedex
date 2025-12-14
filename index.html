@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="images/pokeball.svg" type="image/svg+xml" />
+    <title>Pokédex</title>
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="header__container">
+        <div class="header__left">
+          <a href="/index.html" aria-label="Page d'accueil du Pokédex">
+            <img src="images/pokeball.svg" alt="Icône d'une Pokéball" />
+            <p>Pokédex 151</p>
+          </a>
+        </div>
+        <div class="header__right">
+          <span class="header__right_led red"></span>
+          <span class="header__right_led yellow"></span>
+          <span class="header__right_led green"></span>
+        </div>
+      </div>
+    </header>
+
+    <main class="index">
+      <div class="index__text">
+        <h1 class="index__text_title">Tous les 151 premiers pokémons</h1>
+        <p class="index__text_description">
+          Retrouvez tous les pokémons de votre enfance en version française !
+        </p>
+      </div>
+
+      <div class="index__filter">
+        <div class="index__filter_search">
+          <span class="index__filter_search_button"></span>
+          <input
+            type="text"
+            class="index__filter_search_input"
+            placeholder="Rechercher"
+            id="search-input"
+          />
+          <span class="index__filter_search_close"></span>
+        </div>
+        <div class="index__filter_sortButton"></div>
+        <div class="index__filter_sortList">
+          <div class="index__filter_sortList_wrap">
+            <p class="index__filter_sortList_title">Filtrer par :</p>
+            <div>
+              <input
+                type="radio"
+                id="number"
+                name="filters"
+                value="Numéro"
+                checked
+              />
+              <label for="number">Numéro</label>
+            </div>
+            <div>
+              <input type="radio" id="name" name="filters" value="Nom" />
+              <label for="name">Nom</label>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <section class="index__pokemonList">
+        <div class="index__pokemonList-container">
+          <div class="index__pokemonList_wrapper"></div>
+          <div class="index__pokemonList_message" id="not-found-message">
+            <p>Aucun Pokémon ne correpond à votre recherche.</p>
+          </div>
+          <div class="index__pokemonList_pagination" id="pagination"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p class="footer__copyright">
+        Pokédex créé par
+        <a
+          href="https://manon-poucet.com/"
+          target="_blank"
+          aria-label="Voir le site de Manon"
+          >Manon Poucet</a
+        >
+        © <span id="copyright-year"></span>
+      </p>
+    </footer>
+  </body>
+
+  <script src="js/index.js"></script>
+  <script src="js/footer.js"></script>
+</html>
