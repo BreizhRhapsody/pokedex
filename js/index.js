@@ -171,14 +171,14 @@ function handleSearch() {
 
   if (!searchTerm) {
     currentPokemons = allPokemons;
-  } else if (numberFilter.checked) {
-    currentPokemons = allPokemons.filter((pokemon) =>
-      String(pokemon.id).startsWith(searchTerm)
-    );
-  } else if (nameFilter.checked) {
-    currentPokemons = allPokemons.filter((pokemon) =>
-      pokemon.name_fr.toLowerCase().startsWith(searchTerm)
-    );
+  } else {
+    currentPokemons = allPokemons.filter((pokemon) => {
+      // Vérifie si le numéro OU le nom correspond au début de la recherche
+      return (
+        String(pokemon.id).startsWith(searchTerm) ||
+        pokemon.name_fr.toLowerCase().startsWith(searchTerm)
+      );
+    });
   }
 
   currentPage = 1;
@@ -210,11 +210,3 @@ function toggleCloseButton() {
 }
 
 toggleCloseButton();
-
-// Display filters when click on button
-
-filterButton.addEventListener("click", toggleFilters);
-
-function toggleFilters() {
-  filterContainer.classList.toggle("visible");
-}
